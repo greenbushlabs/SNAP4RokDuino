@@ -26,3 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Want to use Snap! but scared by the open-source license? Get in touch with us,
 we'll make it work.
+
+
+SNAP for the Rokenbok RokDuino is a work in progress with the goal of a SNAP implementation that will allow kids to program the Rokduino with a block based language they are familiar with.
